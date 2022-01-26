@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858357755115",
+    "project_id": "baaten-c5f90",
+    "storage_bucket": "baaten-c5f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858357755115:android:ebfb42c0f2cf838496a2ae",
+        "android_client_info": {
+          "package_name": "com.example.baaten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858357755115-24vgcg9ud8l4pkq2m74rr66ajco8ojic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG6H4YJ2Rb_aQK09RZXXgSX-GBAdjTV9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858357755115-24vgcg9ud8l4pkq2m74rr66ajco8ojic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
